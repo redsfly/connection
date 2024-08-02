@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "1st September open doors day",
+    "description": "you can come and visit our complex for free and try our simulators",
+    "imageUrl": "https://i.ibb.co/Y7srgmP/opendoors.png"
+  },
+  {
+    "id": 2,
+    "name": "On August 15 you can win an annual ticket",
+    "description": "The one who gets the best score from our professional instructors will receive a free visit for a year",
+    "imageUrl": "https://i.ibb.co/KbhQ6VM/freeticket.png"
+  },
+  {
+    "id": 3,
+    "name": " 31st August is half price day ",
+    "description": "On August 31st you can use our services for half price",
+    "imageUrl": "https://i.ibb.co/XWwmV42/halfprice.jpg"
+  }
+]
